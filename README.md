@@ -28,7 +28,7 @@ Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing
 <br>
 
 ## **Team Members**
-- [Obada Tahayna]().
+- [Obada Tahayna](https://github.com/obada-jaras).
 - [Karim Halayqa](https://github.com/karim-halayqa).
 - [Mo’men Dar Bazzar](https://github.com/MomenBazzar).
 
